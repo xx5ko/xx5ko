@@ -1,0 +1,157 @@
+                        body {
+                            background-image: url('img/backline.jpg');
+                            background-attachment: fixed;
+                            background-repeat: repeat-x;
+                            background-size: 1px 130px;
+                            width: auto;
+                            margin: 40px 20px 0px 320px;
+                            line-height: 1.4em;
+                        }
+                        
+                        .page {
+                            background-image: url('img/logos.png');
+                            background-repeat: no-repeat;
+                            background-size: 205px 114px;
+                            padding-bottom: 2px;
+                            margin: 20px auto 20px auto;
+                            width: auto;
+                        }
+                        
+                        h4 {
+                            background-color: white;
+                            font-family: monospace;
+                            text-transform: uppercase;
+                            margin-left: 105px;
+                            margin-top: 66px;
+                        }
+                        
+                        ul>li {
+                            display: inline;
+                            padding: 3px 3px 3px 3px;
+                            font-size: 110%;
+                            font-weight: normal;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            text-transform: uppercase;
+                        }
+                        
+                        nav {
+                            float: right;
+                            padding: 3px 0px 5px 0px;
+                        }
+
+                        nav a:hover {
+                            color: #464646;
+                            background-color: #efefef;
+                            border-bottom: 1px dotted #464646;
+                        }
+
+                        #articlesfirst {
+                            background-color: lavenderblush;
+                            float: left;
+                            clear: both;
+                            border-left: solid #464646;
+                            overflow: auto;
+                            margin-bottom: 30px;
+                        }
+                        
+                        #articlesecond {
+                            background-color: lavenderblush;
+                            float: left;
+                            clear: both;
+                            overflow: auto;
+                            border-left: solid #464646;
+                            margin-bottom: 30px;
+                          
+                        }
+                        
+                        section.articles {
+                            background-color: lavender;
+                            float: left;
+                            width: auto;
+                            border-right: 1px dotted #464646;
+                            padding: auto auto auto auto;
+                        }
+                        
+                        hgroup {
+                            margin-top: 10px;
+                        }
+                        
+                        hgroup>h3 {
+                            font-family: monospace;
+                            text-decoration: underline;
+                            font-size: 14px;
+                            padding: 5px 6px 5px 5px;
+                        }
+                        
+                        hgroup>h2 {
+                            font-family: verdana;
+                            padding-top: 5px;
+                        }
+                        
+                        figure {
+                            float: left;
+                            margin: 10px;
+                            padding: 5px;
+                            border: 1px dotted black;
+                        }
+                        
+                        figcaption {
+                            background-color: lavender;
+                            padding-left: 5px;
+                            text-align: left;
+                            align-content: left;
+                            text-transform: uppercase;
+                            font-family: monospace;
+                            font-size: 20%;
+                            margin: auto;
+                        }
+                        
+                        aside {
+                            background-color; 
+                            float: left;
+                            width: 150px;
+                            padding: 0px 0px 0px 20px;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            text-transform: uppercase;
+                        }
+                        
+                        aside section a {
+                            display: block;
+                            padding: 10px;
+                            border-bottom: 1px dotted #464646;
+                            
+                        }
+                        
+                        aside section a:hover {
+                            color: #464646;
+                            background-color: #efefef;
+                        }
+                        
+                        a {
+                            color: #de6581;
+                            text-decoration: none;
+                            font-size:90%;
+                        }
+
+                        aside h2 {
+                            font-size: 90%;
+                            font-weight: normal;
+                            margin-left: 10px 0px 5px 0px;
+                            padding:0px;
+                        }
+
+                        h1,h2,h3 {
+                            font-weight: normal;
+                        }
+                        
+                        nav.both {
+                            height:30px;
+                            background-color: #de6581;
+                            color: #ffffff;
+                        }
+
+                        footer {
+                            font-size: 0px;
+                            padding: 7px 0px 0px 5px;
+                        }
+                    
